@@ -9,7 +9,7 @@
 * 头像来自世界上最好的动画：《布鲁伊》。
 * 最近在听 Olivia Rodrigo 的《the Cure》。
 * 最喜欢的食物是奥尔良烤翅、麦香鱼和海底捞。
-* 有过很多遗憾
+* 有过很多遗憾。
 * 邮箱：JonyWang317@gmail.com
 
 <div align="center">
