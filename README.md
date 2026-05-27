@@ -1,53 +1,40 @@
-# Hi there, I'm Jony Wang 👋
+# Hi, I'm Jony Wang
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=💻+Artificial+Intelligence+Major;🚀+Full-Stack+Developer;🏆+Competitive+Programming+Enthusiast;🌐+Server+Admin+%26+Tech+Geek" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=560&lines=AI+Undergraduate;Future+Product+Manager;Writing+code+with+Codex" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-*   🎓 正在西南财经大学（SWUFE）攻读**人工智能**专业。
-*   🌱 目前专注于全栈开发与算法竞赛，正在为蓝桥杯积极备战中。
-*   ☁️ 热衷于折腾服务器，正在阿里云上部署和维护自己的个人网站。
-*   🎸 Coding 之外的日常：耳机里循环播放着 Lorde、OneRepublic 或 Coldplay 的歌，偶尔也会翻阅科技公司的发展史（比如锤子科技曾经的故事）。
-*   📫 How to reach me: [你的邮箱/社交链接]
+人工智能本科在读，正在学习如何把技术、产品和真实用户需求连在一起。
 
-### 🛠️ Tech Stack
+比起只把功能做出来，我更关心一个想法为什么值得做、为谁而做，以及它最终能不能变成一个好用、清楚、让人愿意留下来的产品。所以我的职业目标是成为一名产品经理。
 
-**Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+一些正在发生的小事：
 
-**Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Tools & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
-</p>
-
-### 📊 GitHub Stats
+* 头像来自世界上最好的动画：《布鲁伊》。
+* 最近在听 Olivia Rodrigo 的《the cure》。
+* 邮箱：……
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="./the%20cure.jpg" alt="Olivia Rodrigo - the cure cover" width="260" />
+  <br />
+  <sub>Now playing: Olivia Rodrigo - the cure</sub>
 </div>
 
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
+> 技术栈先写 Codex。  
+> 不是因为我什么都会，而是因为我很会请 Codex 帮我什么都会一点。
+
 ---
+
 <div align="center">
-  <i>"Code is poetry."</i>
+  <i>Trying to build things that are useful, understandable, and a little more delightful.</i>
 </div>
