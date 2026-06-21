@@ -1,4 +1,4 @@
-# Welcome to the rise & fall of a southwest prince.
+# You seem pretty horny for a boy so in love
 
 ---
 
@@ -7,15 +7,15 @@
 我是 Jony Wang，人工智能本科在读，职业目标是成为一名产品经理。
 
 * 头像来自世界上最好的动画：《布鲁伊》。
-* 最近在听 Olivia Rodrigo 的《the Cure》。
+* 最近在听 Olivia Rodrigo 的《you seem pretty sad for a girl so in love》。
 * 最喜欢的食物是奥尔良烤翅、麦香鱼和海底捞。
 * 有过很多遗憾。
 * 邮箱：JonyWang317@gmail.com
 
 <div align="center">
-  <img src="./the%20cure.jpg" alt="Olivia Rodrigo - the cure cover" width="260" />
+  <img src="./or3.jpg" alt="or3" width="260" />
   <br />
-  <sub>Now playing: Olivia Rodrigo - the Cure</sub>
+  <sub>Now playing: Olivia Rodrigo - stupid song</sub>
 </div>
 
 ### Tech Stack
